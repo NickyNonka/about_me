@@ -19,6 +19,12 @@ My Technical Report 📄 for my Capstone Project:
 My Capstone Video Presentation:
 - https://drive.google.com/drive/u/0/folders/1Ccw0XUyEKpGEGCAPl1mcWaBOvnBplDrh
 
+My Mini-Project Three
+- https://github.com/NickyNonka/Mini-Project-3
+
+My Mini-Project Two
+- https://github.com/NickyNonka/Mini-Project-2
+
 - Steamlit App: Coming soon
 
 ## 📄 Resume
