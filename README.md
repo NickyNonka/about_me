@@ -25,9 +25,10 @@ My Mini-Project Three
 My Mini-Project Two
 - https://github.com/NickyNonka/Mini-Project-2
 
+Sentiment Analysis
 - Steamlit App: [Sentiment Analysis](https://sentiment-analysis-iod-rnwh5uxv8ykwfm4tlepoem.streamlit.app/)
 
-# Power Bi Learning via [datacamp](https://www.datacamp.com/tracks/data-analyst-in-power-bi)
+## Power Bi Learning via [datacamp](https://www.datacamp.com/tracks/data-analyst-in-power-bi)
 - https://github.com/NickyNonka/Power-BI
   
 ## 📄 Resume
